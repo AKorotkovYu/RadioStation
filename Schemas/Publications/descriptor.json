@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "35d31764-bed3-3b6b-0517-172d923ebbe0",
+    "Name": "Publications",
+    "ModifiedOnUtc": "\/Date(1660039140000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Выпуски"
+  }
+}

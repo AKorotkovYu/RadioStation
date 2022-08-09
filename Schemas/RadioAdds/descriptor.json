@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a0bf7012-79ed-20b8-58bf-74e7ed2935a0",
+    "Name": "RadioAdds",
+    "ModifiedOnUtc": "\/Date(1660039000000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Рекламные блоки"
+  }
+}

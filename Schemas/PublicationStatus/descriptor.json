@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "70888f39-20b6-78a3-17ce-900c3c00283c",
+    "Name": "PublicationStatus",
+    "ModifiedOnUtc": "\/Date(1659534683000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояние выпуска."
+  }
+}

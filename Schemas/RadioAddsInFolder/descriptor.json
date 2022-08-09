@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "be1cbd74-136e-4db8-85ac-108d14910ed4",
+    "Name": "RadioAddsInFolder",
+    "ModifiedOnUtc": "\/Date(1659014168000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Рекламные блоки в группе"
+  }
+}

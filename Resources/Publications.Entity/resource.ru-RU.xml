@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Выпуски" />
+			<Item Name="Columns.Cost.Caption" Value="Стоимость" />
+			<Item Name="Columns.Date.Caption" Value="Дата" />
+			<Item Name="Columns.Presenter.Caption" Value="Ведущий" />
+			<Item Name="Columns.PublicationLong.Caption" Value="Длительность выпуска, мин" />
+			<Item Name="Columns.PublicationStatus.Caption" Value="Состояния выпуска" />
+			<Item Name="Columns.RadioAdds.Caption" Value="Рекламный блок" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

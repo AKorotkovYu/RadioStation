@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "78441e7e-c72c-4981-89fe-8542c203d206",
+    "Name": "SchemaPublicationsPage",
+    "ModifiedOnUtc": "\/Date(1659536405000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Выпуски"
+  }
+}

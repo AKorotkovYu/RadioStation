@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Рекламные блоки&quot;" />
+			<Item Name="LocalizableStrings.Schema83c828c7Detail6cab1882DetailCaptionOnPage.Value" Value="אובייקט בסיס" />
+			<Item Name="LocalizableStrings.SchemaPublicationsDetailDetailCaptionOnPage.Value" Value="אובייקט בסיס" />
+		</Items>
+	</Group>
+</Resources>

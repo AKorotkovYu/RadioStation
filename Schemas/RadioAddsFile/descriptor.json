@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "1322f72b-555a-4e2d-8792-25a6a3473e12",
+    "Name": "RadioAddsFile",
+    "ModifiedOnUtc": "\/Date(1659014161000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Рекламные блоки"
+  }
+}
