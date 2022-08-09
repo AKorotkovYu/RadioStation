@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Рекламные блоки" />
+			<Item Name="Columns.Code.Caption" Value="Код" />
+			<Item Name="Columns.Comment.Caption" Value="Комментарий" />
+			<Item Name="Columns.IsActive.Caption" Value="IsActive" />
+			<Item Name="Columns.Name.Caption" Value="Название" />
+			<Item Name="Columns.Notes.Caption" Value="Заметки" />
+			<Item Name="Columns.Obliged.Caption" Value="Ответственный" />
+			<Item Name="Columns.PeriodAddBlocks.Caption" Value="Периодичность рекламных блоков" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

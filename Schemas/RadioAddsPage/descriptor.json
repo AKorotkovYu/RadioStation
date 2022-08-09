@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "1930a5f4-adb6-4e01-b739-4ac4900e6552",
+    "Name": "RadioAddsPage",
+    "ModifiedOnUtc": "\/Date(1660034638000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Рекламные блоки\""
+  }
+}

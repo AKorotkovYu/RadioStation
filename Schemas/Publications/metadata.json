@@ -1,0 +1,96 @@
+= MetaData.Schema.UId "35d31764-bed3-3b6b-0517-172d923ebbe0"
+= MetaData.Schema.A2 "Publications"
+= MetaData.Schema.A5 "0fed0688-1812-4954-8919-901f4275c1f6"
+= MetaData.Schema.B6 "0a7ac6b4-efda-82ae-ceec-22a65752cdfa"
+= MetaData.Schema.B8 "7.17.1.1363"
+= MetaData.Schema.EG1.UId "0e1feb11-68be-445e-bc34-85ef2a72d780"
+= MetaData.Schema.EG1.A2 "Entity_ddcc89fEventsProcess"
+= MetaData.Schema.EG1.A5 "0fed0688-1812-4954-8919-901f4275c1f6"
++ MetaData.Schema.EG1.B8 "7.17.1.1363"
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK4.["08594d74-60b0-45ce-bf17-bac1a8b127f7"].CK2.["496d4a3c-b644-4a65-b0ed-2534d9236da5"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["90027ac8-c9c3-4d21-a4f9-da1cde752cd1"].CK2.["d8b8410f-5c8a-4ddc-8fc2-353483452aed"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["5f3bfbbe-1820-44ca-92f1-6f993169b2dd"].CK2.["d7c806b7-a29b-4ce5-9167-b3319472e772"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["dbf48103-dcf6-4f53-a052-d727a95ea0b4"].CK2.["933bf2fc-d052-40c8-a3e0-bf60049da5d8"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["f0646c74-f291-474f-9a10-143ee868f1c9"].CK2.["b3d5b61f-7afe-48b5-a8cc-40317ea9c428"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"].CK2.["c803a450-c8dc-47a4-b704-7125c23db317"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D2 {
+  "UId": "6afd33e1-e85f-eace-a351-29180d3b7cfa",
+  "A2": "PublicationLong",
+  "A3": "35d31764-bed3-3b6b-0517-172d923ebbe0",
+  "A4": "35d31764-bed3-3b6b-0517-172d923ebbe0",
+  "A5": "0fed0688-1812-4954-8919-901f4275c1f6",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "149f667b-d85e-821c-7818-6f802f95a538",
+  "A2": "Cost",
+  "A3": "35d31764-bed3-3b6b-0517-172d923ebbe0",
+  "A4": "35d31764-bed3-3b6b-0517-172d923ebbe0",
+  "A5": "0fed0688-1812-4954-8919-901f4275c1f6",
+  "S2": "969093e2-2b4e-463b-883a-3d3b8c61f0cd"
+}
++ MetaData.Schema.D2 {
+  "UId": "c399dcfb-68ee-2e6e-3c58-265df3065456",
+  "A2": "PublicationStatus",
+  "A3": "35d31764-bed3-3b6b-0517-172d923ebbe0",
+  "A4": "35d31764-bed3-3b6b-0517-172d923ebbe0",
+  "A5": "0fed0688-1812-4954-8919-901f4275c1f6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "70888f39-20b6-78a3-17ce-900c3c00283c",
+  "E6": true,
+  "E17": "PublicationStatusId",
+  "E18": "PublicationStatusName"
+}
++ MetaData.Schema.D2 {
+  "UId": "f0b80641-b18c-4292-c910-de7d2f2fe490",
+  "A2": "Presenter",
+  "A3": "35d31764-bed3-3b6b-0517-172d923ebbe0",
+  "A4": "35d31764-bed3-3b6b-0517-172d923ebbe0",
+  "A5": "0fed0688-1812-4954-8919-901f4275c1f6",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
++ MetaData.Schema.D2 {
+  "UId": "dc2cb72d-568c-da56-fb6d-5183c0ac669e",
+  "A2": "RadioAdds",
+  "A3": "35d31764-bed3-3b6b-0517-172d923ebbe0",
+  "A4": "35d31764-bed3-3b6b-0517-172d923ebbe0",
+  "A5": "0fed0688-1812-4954-8919-901f4275c1f6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "a0bf7012-79ed-20b8-58bf-74e7ed2935a0",
+  "E6": true,
+  "E17": "RadioAddsId",
+  "E18": "RadioAddsName"
+}
++ MetaData.Schema.D2 {
+  "UId": "d22c8d10-1ef0-a887-89a4-38b15efb9ec2",
+  "A2": "Date",
+  "A3": "35d31764-bed3-3b6b-0517-172d923ebbe0",
+  "A4": "35d31764-bed3-3b6b-0517-172d923ebbe0",
+  "A5": "0fed0688-1812-4954-8919-901f4275c1f6",
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","6afd33e1-e85f-eace-a351-29180d3b7cfa","149f667b-d85e-821c-7818-6f802f95a538","c399dcfb-68ee-2e6e-3c58-265df3065456","f0b80641-b18c-4292-c910-de7d2f2fe490","dc2cb72d-568c-da56-fb6d-5183c0ac669e","d22c8d10-1ef0-a887-89a4-38b15efb9ec2"]
+= MetaData.Schema.D20.A2 "PublicationsEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

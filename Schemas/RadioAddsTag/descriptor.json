@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e13e0964-7118-4cc5-a716-e957ba100aff",
+    "Name": "RadioAddsTag",
+    "ModifiedOnUtc": "\/Date(1659014172000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Рекламные блоки"
+  }
+}
